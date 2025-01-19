@@ -1,0 +1,1 @@
+A simple Shopping List App built with JavaScript, featuring DOM manipulation and localStorage for data persistence. Users can add, edit, delete, clear, and filter shopping items, with dynamic UI updates and real-time search functionality.
